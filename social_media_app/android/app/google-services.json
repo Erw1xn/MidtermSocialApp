@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091378404911",
+    "project_id": "facetagram-ebb15",
+    "storage_bucket": "facetagram-ebb15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091378404911:android:1dccfd82c3772a7b7770da",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACkBdY5V2xs5ns3bKuXKey2X95vAMZYG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
